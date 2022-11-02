@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frag_nav"
+    app:startDestination="@id/albumsFragment">
+
+    <fragment
+        android:id="@+id/albumsFragment"
+        android:name="com.university.test3.AlbumsFragment"
+        android:label="fragment_albums"
+        tools:layout="@layout/fragment_albums" >
+        <action
+            android:id="@+id/action_albumsFragment_to_tracklistFragment"
+            app:destination="@id/tracklistFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/tracklistFragment"
+        android:name="com.university.test3.TracklistFragment"
+        android:label="fragment_tracklist"
+        tools:layout="@layout/fragment_tracklist" >
+        <argument
+            android:name="albumTitle"
+            app:argType="string"
+            android:defaultValue="ATEEZ" />
+    </fragment>
+</navigation>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">test3</string>
+
+    <string name="fr1_title">Treasure Series</string>
+
+    <string name="treas_ep1">Treasure EP.1: All to Zero</string>
+    <string name="treas_ep2">Treasure EP.2: Zero to One</string>
+    <string name="treas_ep3">Treasure EP.3: One to All</string>
+    <string name="treas_epilogue">Treasure Epilogue: Action to Answer</string>
+
+    <string name="t_ep1_song1">1. Intro: Long Journey</string>
+    <string name="t_ep1_song2">2. Pirate King</string>
+    <string name="t_ep1_song3">3. Treasure</string>
+    <string name="t_ep1_song4">4. Twilight</string>
+    <string name="t_ep1_song5">5. Stay</string>
+    <string name="t_ep1_song6">6. My Way</string>
+
+    <string name="t_ep2_song1">1. HALA HALA (Hearts Awakened Live Alive)</string>
+    <string name="t_ep2_song2">2. Say My Name</string>
+    <string name="t_ep2_song3">3. Desire</string>
+    <string name="t_ep2_song4">4. Light</string>
+    <string name="t_ep2_song5">5. Promise</string>
+    <string name="t_ep2_song6">6. From</string>
+
+    <string name="t_ep3_song1">1. Utopia</string>
+    <string name="t_ep3_song2">2. Illusion</string>
+    <string name="t_ep3_song3">3. Crescent</string>
+    <string name="t_ep3_song4">4. Wave</string>
+    <string name="t_ep3_song5">5. Aurora</string>
+    <string name="t_ep3_song6">6. Dancing Like Butterfly Wings</string>
+
+    <string name="t_eplg_song1">1. Answer</string>
+    <string name="t_eplg_song2">2. Horizon</string>
+    <string name="t_eplg_song3">3. Star 1117</string>
+    <string name="t_eplg_song4">4. Precious</string>
+    <string name="t_eplg_song5">5. Outro: Long Journey</string>
+
+    <string name="t_ep1_imgURL">https://upload.wikimedia.org/wikipedia/en/5/50/Treasure_EP_1-_All_to_Zero.webp</string>
+    <string name="t_ep2_imgURL">https://upload.wikimedia.org/wikipedia/en/5/5f/Treasure_EP_2-_Zero_to_One.png</string>
+    <string name="t_ep3_imgURL">https://upload.wikimedia.org/wikipedia/en/3/35/Treasure_EP_3_-_One_to_All.jpeg</string>
+    <string name="t_eplg_imgURL">https://upload.wikimedia.org/wikipedia/en/0/01/Treasure_Epilogue_Action_to_Answer.png</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
